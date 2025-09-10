@@ -42,6 +42,10 @@ ________________________________________________________________________________
 📌 Day 1 – Titanic Dataset 🛳️
 - Covered: EDA, cleaning, feature engineering, correlation analysis  
 - Key Learning: Choosing the right plots for the right analysis makes insights clearer.
+  
+📌 Day 2 – Netflix Dataset 🍿
+- Covered: Data cleaning & transformation, time-series analysis, text data manipulation, geographical & rating analysis, feature engineering, advanced visualization
+- Key Learning: EDA isn’t just about numbers — the real value comes from turning raw data into stories that highlight trends, shifts, and patterns clearly.
 
 ________________________________________________________________________________________________________________________________
 
