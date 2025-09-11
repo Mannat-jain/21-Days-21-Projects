@@ -47,6 +47,10 @@ ________________________________________________________________________________
 - Covered: Data cleaning & transformation, time-series analysis, text data manipulation, geographical & rating analysis, feature engineering, advanced visualization
 - Key Learning: EDA isn’t just about numbers — the real value comes from turning raw data into stories that highlight trends, shifts, and patterns clearly.
 
+📌 Day 3 – House Price Prediction (Regression) 🏠
+- Covered: Data import via Kaggle API, preprocessing, feature engineering, categorical encoding, Linear Regression vs. XGBoost, model evaluation.
+- Key Learning: Regression demands careful handling of targets & features, while the Kaggle API made workflows cleaner and reproducible.
+
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
