@@ -51,6 +51,13 @@ ________________________________________________________________________________
 - Covered: Data import via Kaggle API, preprocessing, feature engineering, categorical encoding, Linear Regression vs. XGBoost, model evaluation.
 - Key Learning: Regression demands careful handling of targets & features, while the Kaggle API made workflows cleaner and reproducible.
 
+📌 Day 4 – Sentiment Analysis (NLP) 💬
+- Covered: Text preprocessing (stopwords, stemming/lemmatization), vectorization (BoW & TF-IDF), ML models for sentiment classification, evaluation (precision/recall/F1).
+- Key Learning: In NLP, strong preprocessing + representation often matter more than the choice of model.
+
+📌 Day 5 – Customer Segmentation (Clustering) 🛍️
+- Covered: 2D/3D EDA, k-means (income & age-based), optimal k via Elbow Method, hierarchical clustering validation, persona creation for marketing.
+- Key Learning: Clustering depends heavily on feature choice + validation — the right setup makes results business-ready.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
