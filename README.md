@@ -58,6 +58,10 @@ ________________________________________________________________________________
 📌 Day 5 – Customer Segmentation (Clustering) 🛍️
 - Covered: 2D/3D EDA, k-means (income & age-based), optimal k via Elbow Method, hierarchical clustering validation, persona creation for marketing.
 - Key Learning: Clustering depends heavily on feature choice + validation — the right setup makes results business-ready.
+
+📌 Day 6 – Predicting Future Store Sales (Time Series) 🏪📈
+- Covered: Time series decomposition, stationarity testing (ADF), log transform & differencing, ACF/PACF for parameter selection, ARIMA baseline, SARIMA for trend + seasonality, RMSE evaluation.
+- Key Learning: Stationarity is the backbone of forecasting — SARIMA proved far superior by modeling seasonal patterns effectively.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
