@@ -62,6 +62,14 @@ ________________________________________________________________________________
 📌 Day 6 – Predicting Future Store Sales (Time Series) 🏪📈
 - Covered: Time series decomposition, stationarity testing (ADF), log transform & differencing, ACF/PACF for parameter selection, ARIMA baseline, SARIMA for trend + seasonality, RMSE evaluation.
 - Key Learning: Stationarity is the backbone of forecasting — SARIMA proved far superior by modeling seasonal patterns effectively.
+
+📌 Day 7 – Customer Churn Prediction (Feature Engineering) 📡
+- Covered: Advanced data cleaning, feature creation (binning, combining, simplifying), preprocessing pipelines with ColumnTransformer, model comparison to measure lift from engineered features.
+- Key Learning: Strong features + careful selection > complex models. The right engineering brings models closer to practical use.
+
+✨ Closing Note – Machine Learning Phase Complete (Projects 1–7) ✨
+
+Over the past 7 projects, I explored the full ML workflow — from EDA, preprocessing, regression, clustering, time series forecasting, to feature engineering & model optimization. Each project reinforced that ML is not just about algorithms but about data understanding + transformation.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
