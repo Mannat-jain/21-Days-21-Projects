@@ -70,6 +70,10 @@ ________________________________________________________________________________
 ✨ Closing Note – Machine Learning Phase Complete (Projects 1–7) ✨
 
 Over the past 7 projects, I explored the full ML workflow — from EDA, preprocessing, regression, clustering, time series forecasting, to feature engineering & model optimization. Each project reinforced that ML is not just about algorithms but about data understanding + transformation.
+
+📌 Day 8 – Vision AI Fundamentals: Digit Recognizer 🔢🤖
+- Covered: Preprocessing (normalization, reshaping, encoding), ANN → Basic CNN → Deeper CNN (with batch norm & dropout), early stopping & checkpoints, evaluation (accuracy, loss, confusion matrices), and prediction analysis.
+- Key Learning: Deep learning success comes from solid preprocessing + smart architectures, not just making models bigger.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
