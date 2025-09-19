@@ -74,6 +74,10 @@ Over the past 7 projects, I explored the full ML workflow — from EDA, preproce
 📌 Day 8 – Vision AI Fundamentals: Digit Recognizer 🔢🤖
 - Covered: Preprocessing (normalization, reshaping, encoding), ANN → Basic CNN → Deeper CNN (with batch norm & dropout), early stopping & checkpoints, evaluation (accuracy, loss, confusion matrices), and prediction analysis.
 - Key Learning: Deep learning success comes from solid preprocessing + smart architectures, not just making models bigger.
+
+📌 Day 9 – Advanced Vision AI: Transfer Learning ⚡🖼️
+- Covered: Applied transfer learning with ResNet50, VGG16, MobileNetV2 on CIFAR-100. Preprocessed data per model requirements, added custom classification layers, trained with early stopping + checkpoints, fine-tuned top layers, and compared performance.
+- Key Learning: Transfer learning accelerates convergence and improves performance by reusing powerful pre-trained feature extractors instead of starting from scratch.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
