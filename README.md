@@ -78,6 +78,10 @@ Over the past 7 projects, I explored the full ML workflow — from EDA, preproce
 📌 Day 9 – Advanced Vision AI: Transfer Learning ⚡🖼️
 - Covered: Applied transfer learning with ResNet50, VGG16, MobileNetV2 on CIFAR-100. Preprocessed data per model requirements, added custom classification layers, trained with early stopping + checkpoints, fine-tuned top layers, and compared performance.
 - Key Learning: Transfer learning accelerates convergence and improves performance by reusing powerful pre-trained feature extractors instead of starting from scratch.
+
+📌 Day 10 – Creative AI: Neural Style Transfer 🎨🤖
+- Covered: Used GANs to generate faces from random latent vectors, explored latent space with a gender direction vector, and visualized smooth male ↔ female transitions.
+- Key Learning: GAN latent space = a creative playground where AI can morph features, blend styles, and even prove transformations scientifically.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
