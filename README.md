@@ -86,6 +86,10 @@ Over the past 7 projects, I explored the full ML workflow — from EDA, preproce
 📌 Day 11 – Hugging Face Pipelines 🛠️🤖
 - Covered: Explored Hugging Face pipelines for NLP (sentiment, summarization, QA, NER, text generation, translation, zero-shot) and Vision (classification, detection, segmentation, captioning).
 - Key Learning: Pipelines make AI tasks effortless in one line, while diffusion models highlight the creative potential of generative AI.
+
+📌 Day 12 – Real-World CV: YOLOv8 & U-Net 👁️📷
+- Covered: Explored YOLOv8 for real-time object detection and U-Net for tasks beyond segmentation (upscaling, colorization, face sharpening).
+- Key Learning: YOLOv8 shows speed in detection, while U-Net proves its versatility in restoration & enhancement — powerful pair for real-world CV.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
