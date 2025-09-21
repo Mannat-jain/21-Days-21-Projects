@@ -82,6 +82,10 @@ Over the past 7 projects, I explored the full ML workflow — from EDA, preproce
 📌 Day 10 – Creative AI: Neural Style Transfer 🎨🤖
 - Covered: Used GANs to generate faces from random latent vectors, explored latent space with a gender direction vector, and visualized smooth male ↔ female transitions.
 - Key Learning: GAN latent space = a creative playground where AI can morph features, blend styles, and even prove transformations scientifically.
+
+📌 Day 11 – Hugging Face Pipelines 🛠️🤖
+- Covered: Explored Hugging Face pipelines for NLP (sentiment, summarization, QA, NER, text generation, translation, zero-shot) and Vision (classification, detection, segmentation, captioning).
+- Key Learning: Pipelines make AI tasks effortless in one line, while diffusion models highlight the creative potential of generative AI.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
