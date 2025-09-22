@@ -90,6 +90,11 @@ Over the past 7 projects, I explored the full ML workflow — from EDA, preproce
 📌 Day 12 – Real-World CV: YOLOv8 & U-Net 👁️📷
 - Covered: Explored YOLOv8 for real-time object detection and U-Net for tasks beyond segmentation (upscaling, colorization, face sharpening).
 - Key Learning: YOLOv8 shows speed in detection, while U-Net proves its versatility in restoration & enhancement — powerful pair for real-world CV.
+
+📌 Day 13 – Next-Gen Forecasting: Stock Price Prediction 📈🧠
+- Covered: Used sliding windows (30–250 days) with OHLC features to model NIFTY 50 stock prices.
+- Models: ML (LinearRegression, Ridge, Lasso, RF, XGBoost, LightGBM, SVR, KNN) vs DL (RNN, LSTM, GRU, Bi-LSTM).
+- Key Learning: ML offers baselines, but DL captures sequential dependencies — together they give stronger financial insights.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
