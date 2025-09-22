@@ -95,6 +95,14 @@ Over the past 7 projects, I explored the full ML workflow — from EDA, preproce
 - Covered: Used sliding windows (30–250 days) with OHLC features to model NIFTY 50 stock prices.
 - Models: ML (LinearRegression, Ridge, Lasso, RF, XGBoost, LightGBM, SVR, KNN) vs DL (RNN, LSTM, GRU, Bi-LSTM).
 - Key Learning: ML offers baselines, but DL captures sequential dependencies — together they give stronger financial insights.
+
+📌 Day 14 – Custom GPT: Story Generator Text Model
+- Covered: TinyStories dataset, GPT-2 style architecture with Transformer model & tokenizer, training with PyTorch + AdamW + checkpoints, prompt filtering for Python coding.
+- Key Learning: Even small LLMs can generate coherent and creative text when built with control mechanisms and reproducible practices.
+
+✨ Closing Note – Deep Learning Phase Complete (Projects 8–14) ✨
+
+From vision to language, generative creativity to real-world applications — these 7 projects showed me the true breadth of Deep Learning. Each step proved that progress comes not from stacking layers blindly, but from combining the right preprocessing, architectures, transfer learning, and control mechanisms. Deep Learning isn’t just about bigger models — it’s about smarter design, leveraging transfer learning, harnessing creativity, and aligning models with real-world needs.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
