@@ -103,6 +103,10 @@ Over the past 7 projects, I explored the full ML workflow — from EDA, preproce
 ✨ Closing Note – Deep Learning Phase Complete (Projects 8–14) ✨
 
 From vision to language, generative creativity to real-world applications — these 7 projects showed me the true breadth of Deep Learning. Each step proved that progress comes not from stacking layers blindly, but from combining the right preprocessing, architectures, transfer learning, and control mechanisms. Deep Learning isn’t just about bigger models — it’s about smarter design, leveraging transfer learning, harnessing creativity, and aligning models with real-world needs.
+
+📌 Day 15 – Text-to-SQL Generator 💬🗄️
+- Covered: Natural Language Understanding for intent detection, entity-schema mapping, SQL generation from English prompts, and query execution with readable output.
+- Key Learning: Text-to-SQL isn’t just about syntax—it’s about understanding user intent & schema to make databases accessible to non-technical users.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
