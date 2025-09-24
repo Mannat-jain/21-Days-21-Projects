@@ -107,6 +107,10 @@ From vision to language, generative creativity to real-world applications — th
 📌 Day 15 – Text-to-SQL Generator 💬🗄️
 - Covered: Natural Language Understanding for intent detection, entity-schema mapping, SQL generation from English prompts, and query execution with readable output.
 - Key Learning: Text-to-SQL isn’t just about syntax—it’s about understanding user intent & schema to make databases accessible to non-technical users.
+
+📌 Day 16 – Intelligent Document Automation: Smart OCR Bot 📄🤖
+- Covered: Document ingestion (PDFs, scans, images), preprocessing for clarity, ML-based document classification, NLP + CV for data extraction, human-in-the-loop validation, and integration with ERP/CRM systems.
+- Key Learning: Intelligent Document Processing goes beyond OCR — it automates comprehension of unstructured documents, boosting efficiency and enabling digital transformation across industries.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
