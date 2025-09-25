@@ -111,6 +111,10 @@ From vision to language, generative creativity to real-world applications — th
 📌 Day 16 – Intelligent Document Automation: Smart OCR Bot 📄🤖
 - Covered: Document ingestion (PDFs, scans, images), preprocessing for clarity, ML-based document classification, NLP + CV for data extraction, human-in-the-loop validation, and integration with ERP/CRM systems.
 - Key Learning: Intelligent Document Processing goes beyond OCR — it automates comprehension of unstructured documents, boosting efficiency and enabling digital transformation across industries.
+
+📌 Day 17 – Intelligent Internet Search Engine 🌐🤖
+- Covered: Used Crawl4AI for LLM-powered web scraping with concurrent sessions, proxy rotation, retries, and clean markdown output. Explored faster crawling (6x) via heuristics, Docker deployment, and API-free workflows.
+- Key Learning: Web scraping is evolving into intelligent crawling — powering GenAI agents and scalable RAG pipelines.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
