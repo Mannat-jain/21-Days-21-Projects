@@ -115,6 +115,10 @@ From vision to language, generative creativity to real-world applications — th
 📌 Day 17 – Intelligent Internet Search Engine 🌐🤖
 - Covered: Used Crawl4AI for LLM-powered web scraping with concurrent sessions, proxy rotation, retries, and clean markdown output. Explored faster crawling (6x) via heuristics, Docker deployment, and API-free workflows.
 - Key Learning: Web scraping is evolving into intelligent crawling — powering GenAI agents and scalable RAG pipelines.
+
+📌 Day 18 – RAG Chatbot 🤖📚
+- Covered: Combined Information Retrieval (document embeddings + vector DB) with Natural Language Generation (LLM responses) to build a Retrieval-Augmented Generation (RAG) chatbot.
+- Key Learning: RAG bridges raw data and intelligent dialogue — enabling smarter chatbots, enterprise search, and scalable GenAI pipelines.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
