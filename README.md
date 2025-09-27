@@ -119,6 +119,10 @@ From vision to language, generative creativity to real-world applications — th
 📌 Day 18 – RAG Chatbot 🤖📚
 - Covered: Combined Information Retrieval (document embeddings + vector DB) with Natural Language Generation (LLM responses) to build a Retrieval-Augmented Generation (RAG) chatbot.
 - Key Learning: RAG bridges raw data and intelligent dialogue — enabling smarter chatbots, enterprise search, and scalable GenAI pipelines.
+
+📌 Day 19 – Autonomous Market Analyst 📊🤖
+- Covered: Built LLM-powered AI agents to automate deep market research — handling data collection, summarization, and structured insight generation.
+- Key Learning: AI agents can act as autonomous researchers, scaling repetitive analysis and empowering faster decision-making.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
