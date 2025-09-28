@@ -123,6 +123,10 @@ From vision to language, generative creativity to real-world applications — th
 📌 Day 19 – Autonomous Market Analyst 📊🤖
 - Covered: Built LLM-powered AI agents to automate deep market research — handling data collection, summarization, and structured insight generation.
 - Key Learning: AI agents can act as autonomous researchers, scaling repetitive analysis and empowering faster decision-making.
+
+📌 Day 20 – AI Browser Agent 🌐🤖
+- Covered: Explored GenAI-powered browser automation, replacing static selectors with reasoning-based agents capable of adapting to changing page structures.
+- Key Learning: AI browser agents unlock robust, low-maintenance automation that scales beyond the limitations of Selenium and static workflows.
 ________________________________________________________________________________________________________________________________
 
 📌 Notes
