@@ -147,7 +147,7 @@ ________________________________________________________________________________
 The biggest lesson? Consistency > complexity.
 Working every single day, no matter how small the step, compounded into a portfolio of real, working projects.
 
-I’m grateful to GeeksforGeeks, my mentors (special thanks to Ashish Jangra and others), and peers who made this journey possible. This wasn’t just about projects — it was about building habits, confidence, and clarity in AI/ML.
+I’m grateful to GeeksforGeeks, my mentors (special thanks to Ashish Jangra , Harshvanrdhan Singh and Sampurn Rattan) who guided us, and peers who made this journey possible. This wasn’t just about projects — it was about building habits, confidence, and clarity in AI/ML.
 
 And this is only the beginning 🚀
 ________________________________________________________________________________________________________________________________
